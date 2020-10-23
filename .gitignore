@@ -1,0 +1,10 @@
+node_modules/
+sessions
+nodejs/sessions
+password.js
+*.json
+node_modules/
+syntax/
+coding.jpg
+*.html
+*.db
